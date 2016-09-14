@@ -1,0 +1,17 @@
+{
+  "name": "finances-client",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Felix <joylandraver@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/felixpis/home-finances",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
